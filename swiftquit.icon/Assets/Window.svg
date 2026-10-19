@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1024" height="1024" viewBox="0 0 1024 1024">
+<path fill="#fff" fill-rule="evenodd" d="M286 252h452a86 86 0 0 1 86 86v348a86 86 0 0 1-86 86H286a86 86 0 0 1-86-86V338a86 86 0 0 1 86-86Zm0 42a44 44 0 0 0-44 44v348a44 44 0 0 0 44 44h452a44 44 0 0 0 44-44V338a44 44 0 0 0-44-44Z"/>
+<path fill="#fff" d="M221 360h582v30H221z"/>
+<circle cx="280" cy="328" r="12" fill="#fff"/>
+<circle cx="322" cy="328" r="12" fill="#fff"/>
+<circle cx="364" cy="328" r="12" fill="#fff"/>
+</svg>
